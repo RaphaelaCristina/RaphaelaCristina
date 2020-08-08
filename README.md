@@ -2,8 +2,6 @@
 
 ## Raphaela Cristina
 
-![GitHub Logo](/images/rapha.jpeg)
-
 Meu nome é Raphaela Cristina, tenho 23 anos e sou estudante do 3º semestre de Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
 Iniciei na programação em julho/2019 quando fiz um curso de lógica de programação em uma instituição chamada MINAS PROGRAMAM. Nessa mesma época prestei o vestibular da Fatec e passei, foi quando migrei de Engenharia de Produção para TI onde me encontro hoje (estou buscando adquirir maiores conhecimentos e aprendizados, mas desde já me sinto realizada e feliz).
 Atualmente estou tendo a oportunidade de participar do Bootcamp Backend da REPROGRAMA, e ao final do curso espero estar qualificada e pronta para assumir uma vaga no mercado de trabalho como programadora júnior, e poder contribuir também com o desenvolvimento e aprendizado de outras mulheres, assim como está sendo feito comigo.
